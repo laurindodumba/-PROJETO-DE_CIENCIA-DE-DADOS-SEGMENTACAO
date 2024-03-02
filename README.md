@@ -12,8 +12,8 @@ O Coeficiente Gini Normalizado ajusta a pontuação pelo máximo teórico, de mo
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
+![image](https://github.com/laurindodumba/-PROJETO-DE_CIENCIA-DE-DADOS-SEGMENTACAO/assets/38964642/53ca7273-dbdc-4fcc-8e18-1de0cf02dede)
 
-![alt text](image.png)
 
 
 * [Descrição do Projeto](#descrição-do-projeto)
